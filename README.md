@@ -33,7 +33,4 @@ Training and Evaluation: Robust evaluation using precision, recall, F1-score, an
 **Accuracy:** 99.95%
 **F1-Score:** High across most IoT-specific attack types.
 Demonstrates adaptability to complex attack patterns and reduced false alarms.
-**Results**
 
-Outperforms traditional ML and DL approaches.
-Provides detailed insights into IoT-specific attack detection.
